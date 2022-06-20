@@ -1,0 +1,15 @@
+Package: OCEcharts
+Type: Package
+Title: Modifies plots created with ggplot2 to conform to the OCE brand
+Version: 0.1.0
+Author: Ian Moran, Stan Bucifal
+Maintainer: The package maintainer <ian.moran@industry.gov.au>
+Description: Modifies plots created with ggplot2 to conform to the OCE brand. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ggplot2,
+    grDevices,
+    magrittr
+RoxygenNote: 6.0.1
